@@ -347,7 +347,7 @@ nextbtn.addEventListener('click',function(){
     leadershipsum.innerHTML=a
 
     
-                     if(currentItem==42){
+                     if(currentItem==43){
                         sumList.push(l,c,s,x,r,p,a)
                     
                      console.log(sumList)
