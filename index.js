@@ -298,7 +298,7 @@ nextbtn.addEventListener('click',function(){
        currentItem++
     }
     else{
-        alert("completed")
+        nextbtn.innerHTML="completed"
     }
     
       
