@@ -355,8 +355,8 @@ nextbtn.addEventListener('click',function(){
                      const indux = sumList.indexOf(max)
 
                      //innerhtml
-                     intersteddiscription.innerHTML=instrstedArea[1].are
-                     interstedHead.innerHTML=instrstedArea[2].discription
+                     intersteddiscription.innerHTML=instrstedArea[indux].are
+                     interstedHead.innerHTML=instrstedArea[indux].discription
                      }
     
 })
